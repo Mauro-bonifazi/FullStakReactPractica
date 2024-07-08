@@ -1,21 +1,31 @@
 import React from "react";
-const headerStyle = {
-  textAlign: "center",
-  backgroundColor: "black",
-  padding: "20px",
-  borderBottom: "2px solid #ccc",
+const footer = {
+  backgroundcolor: "#333",
+  color: "#fff",
+  textalign: "center",
+  padding: "20px 0",
+  position: "fixed",
+  width: "100%",
+  bottom: "0",
 };
-
-const titleStyle = {
-  fontSize: "2.5rem",
-  color: "#333",
+const footerContent = {
+  maxwidth: "1200px",
+  margin: "0 auto",
+};
+const footerP = {
+  margin: "5px 0",
 };
 
 function Footer(props) {
   return (
-    <div style={headerStyle}>
-      <p style={titleStyle}>Este es mi nuevo proyecto @2024</p>
-    </div>
+    <footer style={footer}>
+      <div style={footerContent}>
+        <p style={footerP}>
+          &copy; 2024 Innovare Software. Todos los derechos reservados.
+        </p>
+        <p style={footerP}>Desarrollo Web</p>
+      </div>
+    </footer>
   );
 }
 
