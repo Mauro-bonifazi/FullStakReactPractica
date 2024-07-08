@@ -10,9 +10,9 @@ function ComponetePadre(props) {
   const data = "Data sobre todo la que estamos haciendo";
   return (
     <div>
-      <button onClick={sumar}>Contador </button>
-      <br></br>
-      <h5> Suma:{suma}</h5>
+      <h5>Visitas:{suma}</h5>
+      <button onClick={sumar}>Visitas + </button>
+
       <ComponenteHijo mensaje={saludo} detalles={data} />
     </div>
   );
