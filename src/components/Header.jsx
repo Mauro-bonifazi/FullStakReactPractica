@@ -8,7 +8,7 @@ const headerStyle = {
 
 const titleStyle = {
   fontSize: "2.5rem",
-  color: "#333",
+  color: "white",
 };
 
 const subtitleStyle = {

@@ -12,8 +12,9 @@ root.render(
   <React.StrictMode>
     <Header />
     <ComponetePadre />
-    <Footer />
+
     <PagesUsers />
+    <Footer />
   </React.StrictMode>
 );
 

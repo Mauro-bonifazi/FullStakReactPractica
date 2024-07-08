@@ -1,17 +1,20 @@
 import React from "react";
+
 const footer = {
-  backgroundcolor: "#333",
+  backgroundColor: "black",
   color: "#fff",
-  textalign: "center",
+  textAlign: "center",
   padding: "20px 0",
   position: "fixed",
   width: "100%",
   bottom: "0",
 };
+
 const footerContent = {
-  maxwidth: "1200px",
+  maxWidth: "1200px",
   margin: "0 auto",
 };
+
 const footerP = {
   margin: "5px 0",
 };
