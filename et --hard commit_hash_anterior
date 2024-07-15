@@ -1,0 +1,48 @@
+[33mcommit 9e261c82424e620d7c2952e0ec744201d7eb3c78[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Mauro Bonifazi <Maurobonifazi@hotmail.com>
+Date:   Mon Jul 15 11:40:01 2024 -0300
+
+    errores
+
+[33mcommit 7f7b71d6bb993cc83b503c498a216c587ec8d0f0[m
+Merge: 5cea451 4d65824
+Author: Mauro Bonifazi <Maurobonifazi@hotmail.com>
+Date:   Mon Jul 15 11:27:56 2024 -0300
+
+    Merge branch 'develop' nuevo componente
+
+[33mcommit 4d65824e3c4ad5e962a5d21da3c79697bbb15358[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m
+Author: Mauro Bonifazi <Maurobonifazi@hotmail.com>
+Date:   Mon Jul 15 11:21:07 2024 -0300
+
+    adivinacomponente
+
+[33mcommit 5cea451171291312d8c33cc11be24b375f57ee6b[m
+Author: Mauro Bonifazi <Maurobonifazi@hotmail.com>
+Date:   Mon Jul 8 18:57:08 2024 -0300
+
+    Cambios usastate
+
+[33mcommit 5570d4679d0e8c473afeb43fca7154d63435b607[m
+Author: Mauro Bonifazi <Maurobonifazi@hotmail.com>
+Date:   Mon Jul 8 18:45:17 2024 -0300
+
+    estados
+
+[33mcommit 7eb63e1acc8f24bd5dbf05b9a57fe0de197db21d[m
+Author: Mauro Bonifazi <Maurobonifazi@hotmail.com>
+Date:   Mon Jul 8 13:35:21 2024 -0300
+
+    actualizacion
+
+[33mcommit 96a36fd5098e50e055a3007bacc4bf27424fab8c[m
+Author: Mauro Bonifazi <Maurobonifazi@hotmail.com>
+Date:   Mon Jul 8 12:35:55 2024 -0300
+
+    initial commint
+
+[33mcommit ba8cb7ab8f5b1d51b1954d9cdf212aa508b25664[m[33m ([m[1;32mnombre-de-la-nueva-rama[m[33m, [m[1;32mfeature/footer[m[33m, [m[1;32mfeat-creacion-del-footer[m[33m, [m[1;32madivinecomponente[m[33m)[m
+Author: Mauro Bonifazi <Maurobonifazi@hotmail.com>
+Date:   Thu Jun 27 17:58:30 2024 -0300
+
+    Initialize project using Create React App
