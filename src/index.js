@@ -1,7 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
-<<<<<<< HEAD
 import reportWebVitals from "./reportWebVitals";
 
 import PagesUsers from "./pages/PagesUsers";
@@ -16,7 +15,7 @@ root.render(
 
     <PagesUsers />
     <Footer />
-=======
+     </React.StrictMode>
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import AdivineComponente from "./Components/AdivineComponente";
@@ -26,7 +25,6 @@ root.render(
   <React.StrictMode>
     <AdivineComponente />
     <App />
->>>>>>> develop
   </React.StrictMode>
 );
 
